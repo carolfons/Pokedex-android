@@ -17,4 +17,4 @@ Aplicativo criado com o objetivo de consumir uma API REST no Android. A API util
 
 ---
 
-<p align="center"> <img src = https://media2.giphy.com/media/nPu9aQYq1dQbu/giphy.gif?cid=ecf05e47f5cy9kkh3d4d387cdrwtrlbmn8dugb7ofncbo502&rid=giphy.gif&ct=s" height = "40" width = "75"/>  Desenvolvido por <a href = "https://www.linkedin.com/in/carolinefons/"> Caroline Fonseca </a> :computer:  </p>
+<p align="center">  Desenvolvido por <a href = "https://www.linkedin.com/in/carolinefons/"> Caroline Fonseca </a> <img src = https://media2.giphy.com/media/nPu9aQYq1dQbu/giphy.gif?cid=ecf05e47f5cy9kkh3d4d387cdrwtrlbmn8dugb7ofncbo502&rid=giphy.gif&ct=s" height = "40" width = "75"/>   </p>
