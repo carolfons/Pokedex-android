@@ -1,0 +1,2 @@
+# Pokedex-android
+Aplicativo Pokédex
