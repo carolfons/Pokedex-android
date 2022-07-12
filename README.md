@@ -1,7 +1,7 @@
 <h1 align = "center"> <img src="https://media3.giphy.com/media/kuWN0iF9BLQKk/giphy.gif?cid=ecf05e47c581n4me88ax3nzbn0baolvs0m85fz5p5qebuypp&rid=giphy.gif&ct=s" width="45" height="40"> App Pokédex </h1>
 <p align = "center"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/carolfons/pokedex-android"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/carolfons/pokedex-android"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carolfons/pokedex-android?color=blue"></p>
 
-Aplicativo criado com o objetivo de consumir uma API REST no Android.
+Aplicativo criado com o objetivo de consumir uma API REST no Android. A API utilizada foi a <a href = "https://pokeapi.co/"> Pokéapi </a>, onde é possível consultar os dados dos pokémons que serão utilizados na pokédex. 
 
 <h3> Tecnologias Utilizadas </h3>
 
