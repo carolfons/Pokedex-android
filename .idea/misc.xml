@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/caroline.fonseca/AndroidStudioProjects/Pokedex/app/src/main/res/drawable/pokemon_gradient.xml" value="0.2169230769230769" />
         <entry key="..\:/Users/caroline.fonseca/AndroidStudioProjects/Pokedex/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/caroline.fonseca/AndroidStudioProjects/Pokedex/app/src/main/res/layout/item_pokemon.xml" value="0.1" />
       </map>
